@@ -3,3 +3,6 @@ Mimas
 Dione
 Rhea
 Hyperion
+Phoebe
+Tethys
+Pan
